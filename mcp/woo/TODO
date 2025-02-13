@@ -1,0 +1,2 @@
+[] Automattically remove tools (read/write) based on API key permissions
+[] Handle destructive tools (delete, update) more gracefully
