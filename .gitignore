@@ -1,0 +1,39 @@
+# Environment variables
+.env
+.env.production
+.env.testing
+.env.development
+.env.gcloud.yaml
+.env.testing
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# IDE specific
+.idea
+.idea/*
+**/.idea/*
+**/.idea
+**/build/
+
+# Python specific
+*.pyc
+**/__pycache__
+
+# Node specific
+node_modules
+npm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+**.DS_Store**
