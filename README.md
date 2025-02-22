@@ -12,6 +12,7 @@ This repository serves as a public showcase where Automattic developers share ex
   - **WooCommerce MCP Server**: A full-featured server for AI-powered WooCommerce store management
   - **WordPress.com MCP Server**: (In Development) For interacting with WordPress.com services
 - **AI-Enabled Plugins**: WordPress plugins that leverage AI services or machine learning libraries
+  - **LLMS TXT**: A plugin that exposes site content through structured text endpoints (`/llms.txt`) for LLM consumption
 - **Integration Prototypes**: Early ideations around AI features related to WooCommerce, WordPress.com, or other Automattic platforms
 
 Each subfolder contains its own experiment with a brief README explaining what it does, why it exists, and how to try it out.
