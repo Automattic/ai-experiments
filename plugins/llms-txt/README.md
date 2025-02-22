@@ -1,6 +1,6 @@
-# LLMS TXT - WordPress Plugin for LLM Content Exposure
+# LLMS TXT - Plugin to easily generate LLM-friendly text files
 
-A WordPress plugin that provides structured text endpoints for exposing your site's content to Large Language Models (LLMs). This plugin is part of Automattic's AI experiments.
+A WordPress plugin that provides structured text endpoints for exposing your site's content to LLMs.
 
 ## Features
 
